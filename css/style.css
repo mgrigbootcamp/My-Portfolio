@@ -74,7 +74,11 @@ main {
         flex-direction: column;
         justify-content: space-around;
     }
+    .main-content-summary{
+        font-size: medium;
 
+    }
+    
     .profile {
         
         font-size: 20px;
