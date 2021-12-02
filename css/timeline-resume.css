@@ -148,3 +148,12 @@ body {
     border-bottom-left-radius: 2rem;
   border-bottom-right-radius: 2rem;
 }
+.my-resume{
+  font-size: 32px;
+  padding-top: 2rem;
+  text-align: center;
+  
+}
+.my-resume a {
+  text-decoration: none;
+}
